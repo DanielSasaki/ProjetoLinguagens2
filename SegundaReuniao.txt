@@ -1,0 +1,17 @@
+Segunda Reuniao com o cliente Professor Vanderlei Parro.
+
+Foi apresentado para o cliente uma base da estrutura do site e recebemos seu feedback sobre o trabalho feito ate o momento.
+
+O cliente gostou da estrutura apresentada e sugeriu algumas mudanças na organizacao do conteudo que apresentamos.
+
+De acordo com o Primeiro Modelo do design do site as alteracoes propostas pelo cliente foram:
+	-> Mudanca na prioridade de demonstracao das abas de acesso.
+		( Servicos / Consultoria / Historia / Contato )
+	-> Mudanca na prioridade de demonstracao das estruturas do site, com o acrescimo de uma nova funcionalidade.
+		( Consultoria
+		  Clientes
+		  Depoimentos
+		  Missao / Premios )
+
+Foi apresentado o incremento de uma area voltada para redes sociais( Linkedin, Facebook, Email, Instagram ) e o cliente aprovou,
+juntamente com a area de "Fale Conosco".
