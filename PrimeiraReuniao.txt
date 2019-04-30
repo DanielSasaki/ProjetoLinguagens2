@@ -1,0 +1,15 @@
+Primeira Reuniao com o cliente Professor Vanderlei Parro.
+
+O cliente aceitou nossa proposta de otimizacao de seu website https://www.bogacorrretora.com
+
+A proposta inicial era a de organizacao das ideias("O que estou procurando ao acessar o site?"),
+melhora na apresentacao visual do site e clareamento das informacoes presentes no site,
+fazendo uma modernizacao do site em si.
+
+O cliente nos mostrou suas preferencias em questao do que deveria ser mudado,mantido e acrescido, como por exemplo:
+	-> Valorizacao da parte da Historia da empresa.
+	-> Melhorar a acessibilidade para atrair novos usuarios.
+	-> Manter uma base para nao afastar usuarios antigos.
+	-> Adicionar uma parte para consultoria.
+	-> Manter a credibilidade da empresa( Premios e Depoimentos ).
+	-> Criar uma ferramenta que auxilie o usuario.
