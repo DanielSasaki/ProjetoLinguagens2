@@ -1,0 +1,14 @@
+Terceira Reuniao com a cliente Claudia Parro.
+
+Foi apresentado para a cliente a base da estrutura do site anteriormente apresentado na segunda reuniao e recebemos seu feedback sobre o trabalho feito ate o momento.
+
+A cliente gostou da estrutura apresentada e sugeriu algumas mudanças na organizacao do conteudo que apresentamos.
+
+De acordo com o Segundo Modelo do design do site as alteracoes propostas pela cliente foram:
+	-> Retirada da parte de Premios.
+	-> Mudanca no titulo dos cards.
+		-> Empresarial ----> Para sua empresa.
+		-> Pessoal -----> Para voce.
+	->Mudanca do Logo.( Apresentado algumas opcoes por nosso grupo )
+
+Foi passado as informacoes,tanto da parte escrita como na parte ilustrativa(fotos historicas da empresa), a serem colocadas nas respectivas sessoes do site.

@@ -1,0 +1,48 @@
+Reunioes{
+	Primeira Reuniao: 30 minutos.(Vanderlei Parro)
+	Segunda Reuniao: 30 minutos.(Vanderlei Parro)
+	Terceira Reuniao: 1 hora.(Claudia Parro)
+	Total: 2 horas.
+
+Design do site{
+	Pesquisa de Referencias: 30 minutos.
+	Primeiro Modelo do Site: 1 hora e 30 minutos.
+	Ajustes do Primeiro Modelo: 30 minutos.
+	Segundo Modelo do Site: 30 minutos.
+	Ajustes do Segundo Modelo: 30 minutos.
+	Total: 3 horas e 30 minutos.
+
+Header{
+	Logo da Empresa: 20 minutos.
+	Menu: 40 minutos.
+	Total: 1 hora.
+
+Body{
+	Introducao: 4 horas.
+	Consultoria: 20 minutos.
+	Servicos: 1 hora e 10 minutos.
+	Historia: 2 horas e 20 minutos.
+	Cliente: 20 minutos.
+	Depoimentos: 20 minutos.
+	Parceiros: 1 hora.
+	Contato: 3 horas*.
+	Total: 12 horas e 10 minutos.
+
+Footer{
+	Footer: 1 hora.
+	Total: 1 hora.
+
+
+Tempo de Estudos{
+	Grid: 3 horas.
+	Bootstrap: 15 horas.(Template Bootstrap)
+	Footer:	3 horas.
+	Tentativa de envio de mensagem para o contato( e-mail ): 5 horas*.
+	Total: 26 horas.
+
+* Uso de php impossibilitou o desenvolvimento de tal funcionalidade,
+sendo que não tivemos isso em aula e mesmo após pesquisas não chegamos a um resultado agradavel.	
+
+	
+TOTAL: 45 horas e 30 minutos.
+	
