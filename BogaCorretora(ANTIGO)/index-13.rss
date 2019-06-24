@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre: Clean and modern design style</title>
+	<atom:link href="http://www.bogacorretora.com/?feed=rss2&#038;p=68" rel="self" type="application/rss+xml" />
+	<link>http://www.bogacorretora.com/?p=68</link>
+	<description>Desde 1978</description>
+	<lastBuildDate>Sun, 27 May 2012 18:10:23 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+	<item>
+		<title>Por: admin</title>
+		<link>http://www.bogacorretora.com/?p=68#comment-7</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 07:43:34 +0000</pubDate>
+		<guid isPermaLink="false">http://labs.saurabh-sharma.com/themes/cruz/wp/?p=68#comment-7</guid>
+		<description><![CDATA[This is level three nested comment. You can have up to 5 level threaded comments.]]></description>
+		<content:encoded><![CDATA[<p>This is level three nested comment. You can have up to 5 level threaded comments.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Pupz</title>
+		<link>http://www.bogacorretora.com/?p=68#comment-6</link>
+		<dc:creator><![CDATA[Pupz]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 07:39:45 +0000</pubDate>
+		<guid isPermaLink="false">http://labs.saurabh-sharma.com/themes/cruz/wp/?p=68#comment-6</guid>
+		<description><![CDATA[One more comment from my side. Aenean sodales, augue venenatis posuere fermentum, tellus velit vestibulum libero, ut elementum ipsum erat sed tellus.]]></description>
+		<content:encoded><![CDATA[<p>One more comment from my side. Aenean sodales, augue venenatis posuere fermentum, tellus velit vestibulum libero, ut elementum ipsum erat sed tellus.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Saagar</title>
+		<link>http://www.bogacorretora.com/?p=68#comment-5</link>
+		<dc:creator><![CDATA[Saagar]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 07:37:44 +0000</pubDate>
+		<guid isPermaLink="false">http://labs.saurabh-sharma.com/themes/cruz/wp/?p=68#comment-5</guid>
+		<description><![CDATA[Yet another nested comment. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante, consectetur sit amet vulputate vel, dapibus sit amet lectus.]]></description>
+		<content:encoded><![CDATA[<p>Yet another nested comment. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus leo ante, consectetur sit amet vulputate vel, dapibus sit amet lectus.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Sam</title>
+		<link>http://www.bogacorretora.com/?p=68#comment-4</link>
+		<dc:creator><![CDATA[Sam]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 07:35:41 +0000</pubDate>
+		<guid isPermaLink="false">http://labs.saurabh-sharma.com/themes/cruz/wp/?p=68#comment-4</guid>
+		<description><![CDATA[This is another comment. Morbi sed nisi est, vitae convallis nulla. Nunc vestibulum ipsum nec libero sodales dignissim. Nulla ac libero neque, sit amet convallis leo.]]></description>
+		<content:encoded><![CDATA[<p>This is another comment. Morbi sed nisi est, vitae convallis nulla. Nunc vestibulum ipsum nec libero sodales dignissim. Nulla ac libero neque, sit amet convallis leo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: admin</title>
+		<link>http://www.bogacorretora.com/?p=68#comment-3</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 25 May 2011 07:34:37 +0000</pubDate>
+		<guid isPermaLink="false">http://labs.saurabh-sharma.com/themes/cruz/wp/?p=68#comment-3</guid>
+		<description><![CDATA[This is a test comment. Vestibulum venenatis, tellus eu posuere faucibus, augue orci faucibus ipsum, sit amet ornare mauris odio id augue. Integer turpis metus, aliquam sed dapibus nec, hendrerit eget massa.]]></description>
+		<content:encoded><![CDATA[<p>This is a test comment. Vestibulum venenatis, tellus eu posuere faucibus, augue orci faucibus ipsum, sit amet ornare mauris odio id augue. Integer turpis metus, aliquam sed dapibus nec, hendrerit eget massa.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

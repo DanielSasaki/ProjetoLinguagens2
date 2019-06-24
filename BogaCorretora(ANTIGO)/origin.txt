@@ -1,0 +1,1224 @@
+Uri: http://www.bogacorretora.com/
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/plugins/follow-button-for-jetpack/plus.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\plugins\follow-button-for-jetpack\plus.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/style.css
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\style.css
+Content Type: text/css
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/css/prettyPhoto.css
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/css/nivo-slider.css
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\css\nivo-slider.css
+Content Type: text/css
+
+Uri: http://www.bogacorretora.com/?feed=rss2
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?feed=comments-rss2
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-1.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&page_id=70
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-2.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=/
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/xmlrpc.php?rsd
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-1.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?page_id=388
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?page_id=160
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-2.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?page_id=152
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-3.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01048-1024x768.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\DSC01048-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01207-1024x768.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\DSC01207-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/PICT1208-1024x768.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\PICT1208-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/check.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\check.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/pessoas.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\pessoas.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/auto.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\auto.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/familia.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\familia.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/estetoscopio.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\estetoscopio.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/equipe-700x444.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\equipe-700x444.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/casa.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\casa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/educacao.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\educacao.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/000052-1024x691.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\000052-1024x691.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/000001-600x400.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\000001-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC02185-768x1024.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\DSC02185-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/historia_2-1024x595.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\historia_2-1024x595.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=386
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-4.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=381
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-5.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=379
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-6.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/image001.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\image001.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/image0011.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\image0011.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/Mosaico_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\Mosaico_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/tabs.js?ver=1.0
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\tabs.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/jquery.cycle.all.min.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\jquery.cycle.all.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/jquery.nivo.slider.pack.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\jquery.nivo.slider.pack.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/jquery.prettyPhoto.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/jquery.validate.pack.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\jquery.validate.pack.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/form_.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\form_.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/custom.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\custom.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/js/nivo_init.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\js\nivo_init.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/boga-300x112.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\boga-300x112.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01048-1024x768.jpg&w=960&h=360&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01207-1024x768.jpg&w=960&h=360&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/PICT1208-1024x768.jpg&w=960&h=360&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/equipe-700x444-150x150.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\equipe-700x444-150x150.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/000052-1024x691.jpg&w=204&h=160&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/000001-600x400.jpg&w=204&h=160&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC02185-768x1024.jpg&w=204&h=160&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/historia_2-1024x595.jpg&w=204&h=160&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01048-1024x768.jpg&w=54&h=54&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01207-1024x768.jpg&w=54&h=54&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/PICT1208-1024x768.jpg&w=54&h=54&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-includes/js/comment-reply.min.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-includes/js/wp-embed.min.js?ver=5.0.4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/dots.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\dots.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/code.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\code.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/quote.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\quote.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/nav_bg_overlay.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\nav_bg_overlay.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/menu_arrows.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\menu_arrows.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/nav_separator.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\nav_separator.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/big_arrows.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\big_arrows.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/bullets.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\bullets.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_arrow.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_arrow.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/comment.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\comment.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/bg_dark_overlay.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\bg_dark_overlay.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/tog.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\tog.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/control_arrows.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\control_arrows.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/li_arrow.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\li_arrow.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/fold.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\fold.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/meta_sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\meta_sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/social_sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\social_sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/btn.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\btn.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/search_ico.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\search_ico.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/loading.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\loading.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/double_hr.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\double_hr.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/dashed.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\dashed.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/hr_3d.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\hr_3d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/strips_hr.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\strips_hr.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/btn.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\btn.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/warning_ico.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\warning_ico.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/check_ico.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\check_ico.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/cross_ico.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\cross_ico.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/comment_ico.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\comment_ico.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/hide_box.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\hide_box.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/star.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\star.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/check.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\check.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/plus.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\plus.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/arrow_bullet.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\arrow_bullet.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/square.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\square.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/circle.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\circle.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/arrow.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\arrow.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/comment.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\comment.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/list_icons/file.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\list_icons\file.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/btn_overlay2.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\btn_overlay2.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/default/loader.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://www.bogacorretora.com/?feed=rss2&page_id=388
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-3.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D388
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-2.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D388&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-1.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/Logo_boga_azul_desde.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\Logo_boga_azul_desde.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/porto_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\porto_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/bradesco_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\bradesco_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/azul_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\azul_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/itau_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\itau_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/maritima_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\maritima_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/mapfre_logo.png
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\mapfre_logo.png
+Content Type: image/png
+
+Uri: http://www.bogacorretora.com/?feed=rss2&page_id=160
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-4.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D160
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-3.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D160&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-2.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&page_id=152
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-5.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D152
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-4.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fpage_id%3D152&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-3.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/06/quadros-1.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\06\quadros-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=386
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-6.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D386
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-5.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D386&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-4.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?author=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-7.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?cat=10
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-8.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\plugins\akismet\_inc\form.js
+Content Type: application/javascript
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01048-1024x768-300x225.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\DSC01048-1024x768-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=381
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-7.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D381
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-6.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D381&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-5.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/DSC01207-1024x768-300x225.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\DSC01207-1024x768-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=379
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-8.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-9.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D379
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-7.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D379&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-6.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2012/05/PICT1208-1024x768-300x225.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2012\05\PICT1208-1024x768-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&author=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-9.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?cat=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-10.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=68
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-11.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?cat=4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-12.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=66
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-13.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/10.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=64
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-14.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/12.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=62
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-15.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/9.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=60
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-16.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/7.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=58
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-17.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/11.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\11.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?author=1&paged=2
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-18.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2012/05/000001-600x400.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-10.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/10.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-11.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/12.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-12.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/9.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-13.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/7.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-14.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/11.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-15.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&cat=10
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-10.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-11.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-8.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D1&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-7.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?p=1&replytocom=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-19.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?feed=rss2&cat=1
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-12.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=301
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-20.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=68
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-13.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D68
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-9.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D68&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-8.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?p=68&replytocom=3
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-21.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=68&replytocom=4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-22.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=68&replytocom=5
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-23.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=68&replytocom=7
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-24.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=68&replytocom=6
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-25.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?feed=rss2&cat=4
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-14.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=56
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-26.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/13.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\13.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=54
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-27.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/15.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\15.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=52
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-28.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/14.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\14.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=50
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-29.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/5.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?cat=4&paged=2
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-30.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/13.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-16.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/15.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-17.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/14.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-18.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/5.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-19.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=66
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-15.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D66
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-10.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D66&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-9.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=64
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-16.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D64
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-11.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D64&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-10.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=62
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-17.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D62
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-12.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D62&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-11.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=60
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-18.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D60
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-13.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D60&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-12.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=58
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-19.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D58
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-14.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D58&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-13.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?p=48
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-31.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/2.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=46
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-32.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/1.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=44
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-33.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/3.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=42
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-34.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/4.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=40
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-35.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/6.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?p=38
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-36.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?cat=3
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-37.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/uploads/2011/05/8.jpg
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\uploads\2011\05\8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?author=1&paged=3
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-38.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/2.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-20.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/1.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-21.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/3.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-22.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/4.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-23.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/6.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-24.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/wp-content/themes/themeforest-264335-cruz-modern-business-wordpress/cruz/scripts/timthumb.php?src=http://www.bogacorretora.com/wp-content/uploads/2011/05/8.jpg&w=590&h=216&zc=1&q=100
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\wp-content\themes\themeforest-264335-cruz-modern-business-wordpress\cruz\scripts\timthumb-25.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=301
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-20.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=8
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-39.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D301
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-15.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D301&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-14.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?p=301&replytocom=2
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-40.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=56
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-21.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D56
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-16.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D56&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-15.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=54
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-22.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D54
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-17.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D54&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-16.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=52
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-23.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D52
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-18.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D52&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-17.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=50
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-24.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D50
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-19.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D50&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-18.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=48
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-25.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D48
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-20.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D48&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-19.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=46
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-26.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D46
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-21.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D46&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-20.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=44
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-27.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D44
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-22.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D44&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-21.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=42
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-28.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D42
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-23.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D42&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-22.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=40
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-29.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D40
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-24.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D40&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-23.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=38
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-30.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=36
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-41.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D38
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-25.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D38&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-24.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&cat=3
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-31.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/?p=33
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-42.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?p=31
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-43.htm
+Content Type: text/html
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=8
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-32.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D8
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-26.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D8&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-25.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=36
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-33.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D36
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-27.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D36&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-26.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=33
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-34.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D33
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-28.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D33&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-27.xml
+Content Type: text/xml
+
+Uri: http://www.bogacorretora.com/?feed=rss2&p=31
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-35.rss
+Content Type: application/rss+xml
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D31
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-29.json
+Content Type: application/json
+
+Uri: http://www.bogacorretora.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=http:%2F%2Fwww.bogacorretora.com%2F%3Fp%3D31&format=xml
+File Name: C:\Users\Administrador\Documents\Nova pasta\www.bogacorretora.com\index-28.xml
+Content Type: text/xml
+
