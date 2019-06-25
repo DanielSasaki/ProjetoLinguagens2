@@ -18,31 +18,33 @@ Header{
 	Total: 1 hora.
 
 Body{
-	Introducao: 4 horas.
-	Consultoria: 20 minutos.
-	Servicos: 1 hora e 10 minutos.
-	Historia: 2 horas e 20 minutos.
-	Cliente: 20 minutos.
-	Depoimentos: 20 minutos.
+	Introducao: 5 horas.
+	Consultoria: 1 hora.
+	Servicos: 1 hora e 30 minutos.
+	Historia: 2 horas e 30 minutos.
+	Cliente: 30 minutos.
+	Depoimentos: 30 minutos.
 	Parceiros: 1 hora.
-	Contato: 3 horas*.
-	Total: 12 horas e 10 minutos.
+	Contato: 5 horas*.
+	Total: 17 horas.
 
 Footer{
-	Footer: 1 hora.
-	Total: 1 hora.
+	Footer: 5 horas.
+	Total: 5 horas.
 
 
 Tempo de Estudos{
 	Grid: 3 horas.
 	Bootstrap: 15 horas.(Template Bootstrap)
-	Footer:	3 horas.
-	Tentativa de envio de mensagem para o contato( e-mail ): 5 horas*.
-	Total: 26 horas.
+	Gulp: 2 horas.
+	Total: 20 horas.
 
 * Uso de php impossibilitou o desenvolvimento de tal funcionalidade,
 sendo que não tivemos isso em aula e mesmo após pesquisas não chegamos a um resultado agradavel.	
 
-	
-TOTAL: 45 horas e 30 minutos.
+
+
+TOTAL DESIGN + REUNIOES: 5 horas e 30 minutos.
+TOTAL DESENVOLVIMENTO: 23 horas.
+TOTAL: 48 horas e 30 minutos.
 	
