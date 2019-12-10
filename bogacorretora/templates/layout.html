@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>Boga Blog</title>
+    
+    <link href="img/bogaLogoAba.png" rel="icon">
+    <link href="img/bogaLogoAba.png" rel="apple-touch-icon">
+  
+    <!--
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/blog/">
+    
+     Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    
+    <style type="text/css">
+#intro .blog-header {
+line-height: 1;
+border-bottom: 1px solid #e5e5e5;
+}
+
+#intro .blog-header-logo {
+font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+font-size: 3.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.display-4 {
+font-size: 2rem;
+}
+@media (min-width: 768px) {
+.display-4 {
+font-size: 2rem;
+}
+}
+
+.nav-scroller {
+position: relative;
+z-index: 2;
+height: 2.75rem;
+overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: nowrap;
+flex-wrap: nowrap;
+padding-bottom: 1rem;
+margin-top: -1px;
+overflow-x: auto;
+text-align: center;
+white-space: nowrap;
+-webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller .nav-link {
+padding-top: .75rem;
+padding-bottom: .75rem;
+font-size: .875rem;
+}
+
+.card-img-right {
+height: 100%;
+border-radius: 0 3px 3px 0;
+}
+
+.flex-auto {
+-ms-flex: 0 0 auto;
+flex: 0 0 auto;
+}
+
+.h-250 { height: 250px; }
+@media (min-width: 768px) {
+.h-md-250 { height: 250px; }
+}
+
+/*
+* Blog name and description
+*/
+.blog-title {
+margin-bottom: 0;
+font-size: 1.5rem;
+font-weight: 400;
+}
+.blog-description {
+font-size: 1.0rem;
+color: #999;
+}
+
+@media (min-width: 40em) {
+.blog-title {
+font-size: 3.5rem;
+}
+}
+
+/* Pagination */
+.blog-pagination {
+margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+border-radius: 2rem;
+}
+
+/*
+* Blog posts
+*/
+.blog-post {
+margin-bottom: 4rem;
+text-decoration: none;
+}
+.blog-post-title {
+margin-bottom: .25rem;
+font-size: 2rem;
+text-decoration: none;
+}
+.blog-post-meta {
+margin-bottom: 1.25rem;
+color: #blue;
+}
+a:link
+{
+text-decoration:none;
+}
+
+#footer {
+background: #00428a;
+padding: 0 0 30px 0;
+color: #eee;
+font-size: 14px;
+}
+
+#footer .footer-top {
+background: #004a99;
+padding: 60px 0 30px 0;
+}
+
+#footer .footer-top .footer-info {
+margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-info h3 {
+font-size: 34px;
+margin: 0 0 20px 0;
+padding: 2px 0 2px 0;
+line-height: 1;
+font-family: "Montserrat", sans-serif;
+color: #fff;
+font-weight: 400;
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+
+#footer .footer-top .footer-info p {
+font-size: 13px;
+line-height: 24px;
+margin-bottom: 0;
+font-family: "Montserrat", sans-serif;
+color: #ecf5ff;
+}
+
+#footer .footer-top h4 {
+font-size: 14px;
+font-weight: bold;
+color: #fff;
+text-transform: uppercase;
+position: relative;
+padding-bottom: 10px;
+}
+
+
+
+#footer .footer-top .footer-contact {
+margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-contact p {
+line-height: 26px;
+}
+
+#footer .credits {
+text-align: center;
+font-size: 13px;
+color: #f1f7ff;
+}
+
+#footer .credits a {
+color: #bfddfe;
+}
+
+#footer .credits a:hover {
+color: #f1f7ff;
+}*
+    </style>
+
+
+  </head>
+
+  <body>
+  <section id = "intro" class="clearfix">
+    <div class="container">
+      <header class="blog-header py-3">
+        <div class="row flex-nowrap justify-content-between align-items-center">
+      </div>
+          <div class="col-md-9 ">
+            <a class="blog-header-logo text-dark" href="https://bogacorretora.herokuapp.com">Blog Boga Corretora</a>
+          </div>
+        </div>
+      </header>
+    </section>
+    </div>
+
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8 blog-main">
+          {% block content %}{% endblock %} 
+
+        </div><!-- /.blog-main -->
+
+        <aside class="col-md-4 blog-sidebar">
+          <div class="p-3 mb-3 bg-light rounded">
+            <h4 class="font-italic">Descrição</h4>
+            <p class="mb-2">Blog criado com o intuito de atualizar os clientes da corretora Boga com os acontecimentos considerados importantes para a corretora.</p>
+          </div>
+
+          <div class="p-3">
+            <h4 class="font-italic">Links</h4>
+            <ol class="list-unstyled">
+              <li><a href="https://corretoraboga.000webhostapp.com">Boga Home</a></li>
+              <li><a href="https://www.twitter.com">Twitter</a></li>
+              <li><a href="https://www.facebook.com">Facebook</a></li>
+            </ol>
+          </div>
+        </aside><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </main><!-- /.container -->
+
+  <footer id="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-2 col-md-4 footer-info">
+          <h3>Boga Corretora</h3>
+        </div>
+
+        <div class="col-md-2 col-md-4 footer-links">
+        
+              
+            </ul>
+          </div> 
+
+
+        <div class="col-md-2  col-md-4 footer-contact">
+          <h4><Contate-nos></Contate-nos></h4>
+          <p>
+            R. Itobi, 333 - Vila Alpina<br>
+            Santo André - SP, 09090-240<br>
+            Brasil <br>
+            <strong>Telefone:</strong> (11) 4992 4658<br>
+            <strong>Whatsapp:</strong> +55 11 99610-7436<br>
+            <strong>Email:</strong> bogacorretora@gmail.com<br>
+          </p>
+
+        </div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="copyright">
+  
+    </div>
+    <div class="credits">
+      <!--
+        All the links in the footer should remain intact.
+        You can delete the links only if you purchased the pro version.
+        Licensing information: https://bootstrapmade.com/license/
+        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=NewBiz
+      -->
+      <p>Desenvolvido por  <a href="https://www.linkedin.com/in/andr%C3%A9-leocadio-melo-chioratto-920036152/"> André/</a>
+        <a href="http://linkedin.com/in/fábio-kawasaki-1a642b180">Fabio/</a>
+        <a href="https://www.linkedin.com/in/daniel-gustavo-sasaki-696808176/">Daniel</a>
+      </p>
+    </div>
+  </div>
+</footer><!-- #footer -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <script>
+      Holder.addTheme('thumb', {
+        bg: '#55595c',
+        fg: '#eceeef',
+        text: 'Thumbnail'
+      });
+    </script>
+  </body>
+</html>
