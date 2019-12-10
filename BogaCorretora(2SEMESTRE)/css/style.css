@@ -714,7 +714,7 @@ height: -wekit-fill-available;
 
 #services .icon {
   position: inherit;
-  left: 313px;
+  left: 90%;
   bottom: 3px;
   top: calc(50% - 32px);
   
